@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aizazmalik, an enthusiastic developer who love to learn and code.
 
-- 👀 I’ve 4 years of development experience in Php, Codeigniter, Python and Django
+- 👀 I’ve 4 years of development experience in Php, Codeigniter and Python. Currently I'm working on Django and Openstack.
 
 - 👀 I’m interested in Openstack, Open Cloud, Python and Android. I have an android app on play store which i developed and deployed purely out of my interest: 
 
